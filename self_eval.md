@@ -1,8 +1,8 @@
 # Self Evaluation
 
-1. How confident do you feel in your understanding and fluency with the comparison operators?
-1. How confident do you feel in your understanding and fluency with the logical operators?
-1. How confident do you feel in your understanding and fluency with the if statements?
-1. How much time did you spend on this lesson/topic? How did that line up with your time estimate?
-1. What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
-1. What questions do you still have? How will you get the answers you need?
+1. How confident do you feel in your understanding and fluency with the comparison operators?  I definitely need to continue to work on it but feel most confident on that compared to other things in this lesson.  Got very stuck due to issues in my terminal so this lesson took way longer than i expected.
+1. How confident do you feel in your understanding and fluency with the logical operators?  I understand what they mean but definitely had trouble running them in code, especially during 1 of the pairing exercises.  Not sure if it was a terminal issue or syntax.  
+1. How confident do you feel in your understanding and fluency with the if statements? Probably on par with how i feel about logical operators.  Feel like I'll get it more as I have more practice with it.
+1. How much time did you spend on this lesson/topic? How did that line up with your time estimate? 3.5 hours with breaks in between.  Think my issue was with my initial clone and my local directory.  kept gettting error messages. Should have asked for help way earlier but finally figured it out.
+1. What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?  I need to practice it all.  I think my biggest issues through this lesson was problems i was having in terminal and it syncing up with the ruby files.  But i think a re run of this lesson would help drill in the code and workflow.  I probably need to wake up earlier and do some work before stand ups.
+1. What questions do you still have? How will you get the answers you need?  No questions at this time. I truly need to take a break at this point.  I will get the answers hopefully through repetition and practice in lessons like these but I will also reference google. If at that point I'm lost and in an unproductive struggle i will reach out to slack asap.
